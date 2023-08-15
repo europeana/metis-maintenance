@@ -1,0 +1,27 @@
+{
+	"metis-ui-test": {
+		"maintenanceMessage": "The site (metis test) is down"
+	},
+	"metis-ui-acceptance": {
+		"maintenanceMessage": "The site (metis acceptance) is down"
+	},
+	"metis-ui-production": {
+		"maintenanceMessage": "The site (metis production) is down"
+	},
+	"sandbox-ui-test": {
+		"maintenanceMessage": "The site (sandbox test) is down",
+		"period": {
+			"from": "8/15/2023, 9:43:03 AM",
+			"to": "8/15/2023, 9:44:13 AM"
+		}
+	},
+	"sandbox-ui-acceptance": {
+		"maintenanceMessage": "The site (sandbox acceptance) is down"
+	},
+	"sandbox-ui-production": {
+		"maintenanceMessage": "The site (sandbox production) is down"
+	},
+	"statistics-dashboard-test": {},
+	"statistics-dashboard-acceptance": {},
+	"statistics-dashboard-production": {}
+}
