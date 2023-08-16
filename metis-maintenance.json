@@ -10,15 +10,10 @@
 	},
 	"sandbox-ui-test": {
 		"maintenanceMessage": "The site (sandbox test) is down",
-		"xperiod": {
+		"period": {
 			"from": "8/17/2023, 10:20:00 AM",
 			"to": "8/17/2023, 10:25:00 AM"
-		},
-		"period": {
-			"from": "8/17/2023, 01:10:00 AM",
-			"to": "8/17/2023, 01:11:00 AM"
 		}
-
 	},
 	"sandbox-ui-acceptance": {
 		"maintenanceMessage": "The site (sandbox acceptance) is down"
