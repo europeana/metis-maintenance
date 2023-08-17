@@ -1,11 +1,7 @@
 {
 	"metis-ui-test": {
-		"maintenanceMessage": "The site <b>metis-test</b> is down and will be back up...<br/><br/>...<b>laterz!!!!</b>",
+		"maintenanceMessage": "The site <b>metis-test</b> is down and will be back up...<br/><br/><b>laterz!!!!</b><br/><br/>(...hopefully)",
 		"period": {
-			"from": "2023-08-17T16:00:41.356Z",
-			"to": "2023-08-17T16:05:41.356Z"
-		},
-		"xperiod": {
 			"from": "2023-08-18T08:20:00.430Z",
 			"to": "2023-08-18T08:25:00.430Z"
 		}
@@ -19,8 +15,8 @@
 	"sandbox-ui-test": {
 		"maintenanceMessage": "The site <b>sandbox test</b> is down",
 		"period": {
-			"from": "2023-08-17T16:00:41.356Z",
-			"to": "2023-08-17T16:05:41.356Z"
+			"from": "2023-08-18T08:20:00.430Z",
+			"to": "2023-08-18T08:25:00.430Z"
 		}
 	},
 	"sandbox-ui-acceptance": {
