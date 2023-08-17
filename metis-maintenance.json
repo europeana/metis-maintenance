@@ -1,6 +1,6 @@
 {
 	"metis-ui-test": {
-		"maintenanceMessage": "The site <span style=&quot;color: #33bb33;&quot;>(metis test)</span> is down and will be back up...<br/><br/>...<b>laterz!!!!</b>",
+		"maintenanceMessage": "The site &#x3C;span style=&#x22;color:red&#x22;&#x3E;hi&#x3C;/span&#x3E; is down and will be back up...<br/><br/>...<b>laterz!!!!</b>",
 		"xperiod": {
 			"from": "2023-08-18T08:20:00.430Z",
 			"to": "2023-08-18T08:25:00.430Z"
