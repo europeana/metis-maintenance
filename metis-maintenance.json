@@ -11,23 +11,23 @@
 		}
 	},
 	"metis-ui-acceptance": {
-		"maintenanceMessage": "The site (metis acceptance) is down"
+		"maintenanceMessage": "The site <b>metis acceptance</b> is down"
 	},
 	"metis-ui-production": {
-		"maintenanceMessage": "The site (metis production) is down"
+		"maintenanceMessage": "The site <b>metis production</b> is down"
 	},
 	"sandbox-ui-test": {
-		"maintenanceMessage": "The site (sandbox test) is down",
+		"maintenanceMessage": "The site <b>sandbox test</b> is down",
 		"period": {
 			"from": "2023-08-17T16:00:41.356Z",
 			"to": "2023-08-17T16:05:41.356Z"
 		}
 	},
 	"sandbox-ui-acceptance": {
-		"maintenanceMessage": "The site (sandbox acceptance) is down"
+		"maintenanceMessage": "The site <b>sandbox acceptance</b> is down"
 	},
 	"sandbox-ui-production": {
-		"maintenanceMessage": "The site (sandbox production) is down"
+		"maintenanceMessage": "The site <b>sandbox production</b> is down"
 	},
 	"statistics-dashboard-test": {},
 	"statistics-dashboard-acceptance": {},
