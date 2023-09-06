@@ -25,7 +25,12 @@
 	"sandbox-ui-production": {
 		"maintenanceMessage": "The site <b>sandbox production</b> is down"
 	},
-	"statistics-dashboard-test": {},
+	"statistics-dashboard-test": {
+		"period": {
+			"from": "2023-06-18T08:20:00.430Z",
+			"to": "2023-10-18T08:25:00.430Z"
+		}
+	},
 	"statistics-dashboard-acceptance": {},
 	"statistics-dashboard-production": {}
 }
