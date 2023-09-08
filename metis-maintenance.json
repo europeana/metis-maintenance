@@ -28,8 +28,8 @@
 	"statistics-dashboard-test": {
 		"maintenanceMessage": "The site <b>statistics dashboard test</b> is down for a while",
 		"period": {
-			"from": "2023-09-06T15:27:51.713Z",
-			"to": "2023-09-06T15:30:51.713Z"
+			"from": "2023-09-07T15:27:51.713Z",
+			"to": "2023-09-10T15:30:51.713Z"
 		}
 	},
 	"statistics-dashboard-acceptance": {},
