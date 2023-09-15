@@ -2,8 +2,8 @@
 	"metis-ui-test": {
 		"maintenanceMessage": "The site <b>metis-test</b> is down for a while",
 		"period": {
-			"from": "2023-09-15T09:05:53.997Z",
-			"to": "2023-09-15T09:07:53.997Z"
+			"from":"2023-09-15T09:12:23.942Z",
+			"to":"2023-09-15T09:14:23.942Z"
 		}
 	},
 	"metis-ui-acceptance": {
@@ -15,8 +15,8 @@
 	"sandbox-ui-test": {
 		"maintenanceMessage": "The site <b>sandbox test</b> is down",
 		"period": {
-			"from": "2023-09-15T08:10:30.411Z",
-			"to": "2023-09-15T08:12:30.411Z"
+			"from":"2023-09-15T09:12:23.942Z",
+			"to":"2023-09-15T09:14:23.942Z"
 		}
 	},
 	"sandbox-ui-acceptance": {
@@ -28,8 +28,8 @@
 	"statistics-dashboard-test": {
 		"maintenanceMessage": "The site <b>statistics dashboard test</b> is down for a while",
 		"period": {
-			"from": "2023-09-08T18:26:31.691Z",
-			"to": "2023-09-08T18:30:31.691Z"
+			"from":"2023-09-15T09:12:23.942Z",
+			"to":"2023-09-15T09:14:23.942Z"
 		}
 	},
 	"statistics-dashboard-acceptance": {},
