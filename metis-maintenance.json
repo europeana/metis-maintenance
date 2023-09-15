@@ -15,8 +15,8 @@
 	"sandbox-ui-test": {
 		"maintenanceMessage": "The site <b>sandbox test</b> is down",
 		"period": {
-			"from": "2023-09-08T18:26:31.691Z",
-			"to": "2023-09-08T18:30:31.691Z"
+			"from": "2023-09-15T08:10:30.411Z",
+			"to": "2023-09-15T08:12:30.411Z"
 		}
 	},
 	"sandbox-ui-acceptance": {
