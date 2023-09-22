@@ -8,6 +8,10 @@
 	},
 	"metis-ui-acceptance": {
 		"maintenanceMessage": "The site <b>metis acceptance</b> is down"
+		"period": {
+			"from":"1900-01-01T00:00:00.000Z",
+			"to":"1900-01-01T00:00:00.000Z"
+		}
 	},
 	"metis-ui-production": {
 		"maintenanceMessage": "The site <b>metis production</b> is down"
