@@ -28,7 +28,7 @@
 		}
 	},
 	"sandbox-ui-acceptance": {
-		"maintenanceMessage": "The site <b>sandbox acceptance</b> is down"
+		"XXX_maintenanceMessage": "The site <b>sandbox acceptance</b> is down"
 	},
 	"sandbox-ui-production": {
 		"maintenanceMessage": "The site <b>sandbox production</b> is down"
