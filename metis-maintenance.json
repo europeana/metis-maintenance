@@ -50,6 +50,5 @@
 	},
 	"statistics-dashboard-acceptance": {},
 	"statistics-dashboard-production": {
-		"maintenanceMessage": "The site <b>metis statistics dashboard</b> is temporarily unavailable due to maintenance"		
 	}
 }
