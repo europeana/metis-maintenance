@@ -14,11 +14,7 @@
 		}
 	},
 	"metis-ui-production": {
-		"period": {
-			"from":"2023-10-03T13:36:51.962Z",
-			"to":"2023-10-06T08:30:00.000Z"
-		},
-		"maintenanceMessage": "<b>Metis</b> is down for maintenance and will be back on the morning of Friday 6th"
+		"maintenanceMessage": "<b>Metis</b> is down for maintenance and will be back shortly"
 	},
 	"sandbox-ui-test": {
 		"maintenanceMessage": "Hetzner has informed us that they will be performing some maintenance on November 16 from 4:00 am to 6:00 am (CET) which may cause downtime on the Europeana website and the Metis Sandbox.",
